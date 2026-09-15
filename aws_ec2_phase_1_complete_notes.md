@@ -1017,6 +1017,13 @@ docker compose up -d
 
 failed because Compose support was not available.
 
+Install via
+
+```bash
+sudo apt update
+sudo apt install docker-compose-v2
+```
+
 The modern syntax is:
 
 ```bash
